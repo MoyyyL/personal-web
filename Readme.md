@@ -1,3 +1,1 @@
-To use jest i need to set:
-file.test.js
-and use module.export / require
+# Hey there, nice to see your interest in my project, Thank you!!
