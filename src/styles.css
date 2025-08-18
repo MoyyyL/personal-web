@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    max-inline-size: 100%;
+}
+
+/** Introduction section*/
+
+.personal {
+    width: 80%;
+    height: 80dvh;
+    margin: auto;
+    align-self: center;
+    justify-self: center;
+    border: 1px solid black;
+}
