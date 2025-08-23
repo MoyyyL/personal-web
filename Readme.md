@@ -1,1 +1,0 @@
-# Thanks for your interest in my little project ^^
