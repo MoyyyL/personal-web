@@ -1,5 +1,5 @@
-import { typing } from "/script"
+import { typing } from '/script';
 
 test('iterates correctly the characters', () => {
-    expect(typing("hello").toBe(["h","e","l","l","o"]))
-})
+    expect(typing('hello').toBe(['h', 'e', 'l', 'l', 'o']));
+});
