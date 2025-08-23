@@ -8,6 +8,10 @@
     src: url(/public/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf);
 }
 
+h1 {
+    margin: 0;
+}
+
 body {
     margin: 0;
     width: 100%;
@@ -40,12 +44,10 @@ img {
     /*margin-top: 3rem;*/
 }
 
-
-
 .personal__names {
     margin: 0;
     color: #CB9CF2;
-
+    text-decoration: none;
 }
 
 .personal__subtitle {
@@ -131,7 +133,7 @@ img {
     }
 }
 
-@media screen and (min-height: 700px) {
+@media screen and (min-height: 700px) and (min-width: 370px) {
     body {
         height: 100dvh;
     }
